@@ -2,7 +2,15 @@
 
 ###
 
-<h2 align="left">Computer science</h2>
+<h2 align="center">Computer science</h2>
+
+###
+
+<div align="center">
+  <a href="https://discord.gg/3ARUh8rs" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=My&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+</div>
 
 ###
 
@@ -21,17 +29,13 @@
 ###
 
 <div align="center">
-  <a href="https://discord.gg/3ARUh8rs" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=My&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDg3bjR4MWJ4MXlhNGJrcnRrODdhMDYzdTNieTk0bGJ0aXltOTYydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 </div>
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1khaled-ctrl&locale=en&hide_title=false&layout=default%20&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2&custom_title=Java" height="150" alt="languages graph"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=1khaled-ctrl.1khaled-ctrl&"  />
 </div>
 
 ###
